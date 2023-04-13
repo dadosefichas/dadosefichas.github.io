@@ -1,0 +1,22 @@
+body {
+    background-image: url("img/lucio\ esticado.png");
+}
+
+#main {
+    margin: auto;
+    width: 50%;
+    background-color: #5885AF;
+    padding: 20px;
+    font-size: 16px;
+    color: #dddddd;
+    text-align: justify;
+}
+
+p:has(img, b) {
+    text-align: center;
+}
+
+b {
+    color: beige;
+    font-size: 18px;
+}
